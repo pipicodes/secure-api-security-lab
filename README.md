@@ -4,10 +4,10 @@
 
 The secure API was tested using curl commands to verify authentication and authorization controls.
 
-#### Successful request, access denied, and missing header
+### Successful request, access denied, and missing header
 
-![Security Test 1](screenshots/security-tests-1.png)
+![Security Test](screenshots/security-tests-main.png)
 
-#### Invalid header values
+### Invalid header values
 
-![Security Test 2](screenshots/security-tests-2.png)
+![Invalid Header Test](screenshots/security-tests-invalid-header.png)
