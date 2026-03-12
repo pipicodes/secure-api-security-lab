@@ -10,6 +10,12 @@ This lab includes:
 - curl-based security testing
 - screenshots of authorization test results
 
+## Disclaimer
+
+This project is a personal learning lab created to demonstrate API security concepts such as Broken Access Control and authorization checks.
+
+All data, users, and scenarios are simulated and do not represent any real system or organization.
+
 ## Security Tests
 
 ### Authorization Tests
